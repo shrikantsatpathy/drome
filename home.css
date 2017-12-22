@@ -1,0 +1,86 @@
+.navbar{
+	background-color:#4F604A    ;
+	height: 5px;
+}
+html,body{
+	height: 100%;
+	background-image: url(https://images.unsplash.com/photo-1433162653888-a571db5ccccf?auto=format&fit=crop&w=1950&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+	background-size: cover;
+	background-position: top;
+	font-family:arvo;
+}
+.navbar{
+	border-width: 0;
+}
+.navbar-default .navbar-nav>li>a{
+	color: white;
+}
+.container-fluid{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+h3,h4{
+	color: white;
+	font-weight: 500;
+	font-size: 50px;
+	margin: 0;
+	padding-left: 0px;
+
+}
+#top{
+	padding-top: 15%;
+}
+hr{
+	width: 500px;
+	
+	color: white;
+	border-top: 1px solid white;
+
+}
+.navbar-default .navbar-brand{
+	color: white;
+
+}
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header {
+    margin-right: 100px;
+    margin-left: 10px;
+}
+.collapse{
+	padding-right:50px;
+}
+.nav>li>a{
+	padding: 15px 60px;
+}
+.jumbotron .h1, .jumbotron h1 {
+    color: hsla(120, 39%, 57%, 0.79);
+    text-align: center;
+    padding-top: 2px;
+}
+.jumbotron {
+    padding-top: 0px;
+    padding-bottom: 100px;
+    margin: 0 auto;
+}
+.center{
+	text-align: center;
+	padding-right: 200px;
+}
+label{
+	font-size: 1.5em;
+	color:hsla(120, 39%, 57%, 0.79);
+	padding-top: 40px;
+
+}
+.signup{
+	padding-right: 40px;
+	font-family: 'Arima Madurai', cursive;
+	font-weight: 600;
+
+}
+.bgsu{
+	height: 100%;
+	background-image: url(https://images.unsplash.com/photo-1423958950820-4f2f1f44e075?auto=format&fit=crop&w=1050&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+	background-size: cover;
+	background-position: top;
+	
+}
